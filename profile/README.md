@@ -1,6 +1,6 @@
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-green.svg?style=flat)](CONTRIBUTING.md)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-green.svg?style=flat)](../CONTRIBUTING.md)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
-<img align="right" src="images/OpenZeroTrustLogo_Green2.png" width="150px" />
+<img align="right" src="../images/OpenZeroTrustLogo_Green2.png" width="150px" />
 
 ## Open Zero Trust
 
@@ -37,7 +37,7 @@ In October, 2021, SUSE acquired NeuVector and announced plans to open source the
 
 ## Architecture
 
-<img align="center" src="images/ozt_arch.png" alt="Neuvector_architecture" />
+<img align="center" src="../images/ozt_arch.png" alt="Neuvector_architecture" />
 
 
 There are four main components:
@@ -73,7 +73,7 @@ Zero-Trust security:
 
 
 
-**[Roadmap](https://github.com/openzt/openzerotrust/blob/main/ROADMAP.md)**
+**[Roadmap](https://github.com/openzerotrust/.github/blob/main/ROADMAP.md)**
 
 
 ## Getting Started
@@ -115,7 +115,7 @@ Do you have ideas you would like to see implemented into the project? do you see
 It doesn't have to be just technical.
 
 
-Visit our [Contributing Guidelines](CONTRIBUTING.md).
+Visit our [Contributing Guidelines](../CONTRIBUTING.md).
 
 
 ### Security
@@ -124,7 +124,7 @@ Visit our [Contributing Guidelines](CONTRIBUTING.md).
 We are all about security, if you found a security issue we welcome your feedback.
 
 
-Please have a look at our [security guidelines](SECURITY.md) for how to report a vulnerability.
+Please have a look at our [security guidelines](../SECURITY.md) for how to report a vulnerability.
 
 
 
