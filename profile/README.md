@@ -97,8 +97,7 @@ Do you have ideas you would like to see implemented into the project? do you see
 It doesn't have to be just technical.
 
 
-Visit our [Contributing Guidelines](https://github.com/openzerotrust/docs/blob/main/CONTRIBUTING.md).
-
+Visit our [Contributing Guidelines](https://github.com/openzerotrust/.github/blob/main/CONTRIBUTING.md).
 
 ### Security
 
@@ -106,7 +105,7 @@ Visit our [Contributing Guidelines](https://github.com/openzerotrust/docs/blob/m
 We are all about security, if you found a security issue we welcome your feedback.
 
 
-Please have a look at our [security guidelines](https://github.com/openzerotrust/docs/blob/main/SECURITY.md) for how to report a vulnerability.
+Please have a look at our [security guidelines](https://github.com/openzerotrust/.github/blob/main/SECURITY.md) for how to report a vulnerability.
 
 
 
