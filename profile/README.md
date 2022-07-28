@@ -61,7 +61,8 @@ There are four main components:
 ## Getting Started
 
 In our [docs](https://open-docs.neuvector.com) you can find many examples and information about OZT.
-Documentation for the Open Zero Trust project can be found temporarily [here](https://open-docs.neuvector.com), you can find many examples and information about OZT. This will soon be replicating into this repo.
+
+Documentation for the Open Zero Trust project can be found temporarily [here](https://open-docs.neuvector.com), you can find many examples and information about OZT. This will soon be replicat into this repo.
 
 You can also visit our [official blog](https://blog.neuvector.com/article) where you can find interesting articles, news and anouncements.
 
