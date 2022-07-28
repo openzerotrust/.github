@@ -34,6 +34,9 @@ Initially focused on run-time security of production workloads, the product has 
 
 In October, 2021, SUSE acquired NeuVector and announced plans to open source the software.
 
+### Code
+Since it was started as a closed source product, licensed only to enterprise customers for fee, the code history of the project is not publicly available due to issues such as privacy concerns with customer and PII information which existed in various parts of the code, as well as the use of internal proprietary tools for updating and building new versions. Typically, the project had major releases once per year, minor releases every 4-5 months, and bug fix/patch releases every 4-6 weeks.
+
 
 ## Architecture
 
