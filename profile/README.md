@@ -75,7 +75,6 @@ If you have some comments and would like to reach out or get involved in the pro
 OZT can be deployed in many kubernetes distributions and through different container management platforms, here you can find instructions on how to deploy on some of them:
 + [SUSE Rancher](https://open-docs.neuvector.com/deploying/rancher)
 + [Red Hat OpenShift](https://open-docs.neuvector.com/deploying/openshift)
-+ [VMWare Tanzu]()
 + [EKS](https://open-docs.neuvector.com/deploying/publick8s)
 + [AKS](https://open-docs.neuvector.com/deploying/publick8s)
 + [GKE](https://open-docs.neuvector.com/deploying/publick8s)
