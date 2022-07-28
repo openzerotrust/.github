@@ -79,7 +79,7 @@ OZT can be deployed in many kubernetes distributions and through different conta
 + [AKS](https://open-docs.neuvector.com/deploying/publick8s)
 + [GKE](https://open-docs.neuvector.com/deploying/publick8s)
 
-For more information visit the [deployment section](https://open-docs.neuvector.com/deploying/production#planning-deployments)) in our documentation page.
+For more information visit the [deployment section](https://open-docs.neuvector.com/deploying/production#planning-deployments) in our documentation page.
 
 
 
