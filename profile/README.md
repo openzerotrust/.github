@@ -47,8 +47,8 @@ There are four main components:
 
 + [Manager](https://github.com/openzerotrust/manager) - Security Center Admin Console for OZT Container Security Platform.
 + [Scanner](https://github.com/openzerotrust/scanner) - Vulnerability scanner for OZT Container Security Platform.
-+ [Enforcer](https://github.com/openzerotrust/neuvector) - The Enforcer is a lightweight container that enforces the security policies.
-+ [Controller](https://github.com/openzerotrust/neuvector) - The Controller manages the OZT Enforcer container cluster and provides REST APIs for the management console.
++ [Enforcer](https://github.com/openzerotrust/openzerotrust) - The Enforcer is a lightweight container that enforces the security policies.
++ [Controller](https://github.com/openzerotrust/openzerotrust) - The Controller manages the OZT Enforcer container cluster and provides REST APIs for the management console.
 
 
 
