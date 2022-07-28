@@ -14,9 +14,9 @@ Open Zero Trust project contains the following repositories.
 
 Repository | URL | Description
 -----------|-----|-------------
-openzerotrust | [https://github.com/openzt/openzerotrust](https://github.com/openzt/openzerotrust) | This repository hosts the controller and enforcer source code.
-manager | [https://github.com/openzt/manager](https://github.com/openzt/manager) | The repository for the admin console UI interface.
-scanner | [https://github.com/openzt/scanner](https://github.com/openzt/scanner) | The repository for the vulnerability scanner.
+openzerotrust | [https://github.com/openzerotrust/openzerotrust](https://github.com/openzerotrust/openzerotrust) | This repository hosts the controller and enforcer source code.
+manager | [https://github.com/openzerotrust/manager](https://github.com/openzerotrust/manager) | The repository for the admin console UI interface.
+scanner | [https://github.com/openzerotrust/scanner](https://github.com/openzerotrust/scanner) | The repository for the vulnerability scanner.
 
 ## Opening PRs and organizing commits
 
