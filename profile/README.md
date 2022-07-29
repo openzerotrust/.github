@@ -67,7 +67,7 @@ Documentation for the Open Zero Trust project can be found temporarily [here](ht
 You can also visit our [official blog](https://blog.neuvector.com/article) where you can find interesting articles, news and anouncements.
 
 
-If you have some comments and would like to reach out or get involved in the project you can also visit our [chat group]().
+If you have some comments and would like to reach out or get involved in the project you can also visit our [chat group](slack.rancher.io) #ozt.
 
 
 
@@ -98,6 +98,10 @@ It doesn't have to be just technical.
 
 
 Visit our [Contributing Guidelines](https://github.com/openzerotrust/.github/blob/main/CONTRIBUTING.md).
+
+Join our slack channel #ozt at [slack.rancher.io](slack.rancher.io)
+
+
 
 ### Security
 
