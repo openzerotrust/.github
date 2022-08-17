@@ -6,7 +6,7 @@
 
 # Overview
 
-Open Zero Trust is a Full Lifecycle Container Security platform, delivering cloud-native security with uncompromising end-to-end protection, from DevOps vulnerability protection to automated run-time security, featuring a true Layer 7 container firewall that can block zero days and other threats.
+Open Zero Trust is a Full Lifecycle Container Security platform, delivering cloud-native security with uncompromising end-to-end protection, from DevOps vulnerability protection to automated run-time security, featuring a true Layer 7 container firewall that can block zero days and other threats comming from unexpected application behaviours.
 
 With the Open Zero Trust (OZT) platform, DevOps, DevSecOps, and Security teams have the tools they need to secure the entire container pipeline, from Build to Ship to Run, automatically.
 
@@ -37,6 +37,8 @@ In October, 2021, SUSE acquired NeuVector and announced plans to open source the
 ### Code History
 Since it was started as a closed source product, licensed only to enterprise customers for fee, the code history of the project is not publicly available due to issues such as privacy concerns with customers and PII information which existed in various parts of the code, as well as the use of internal proprietary tools for updating and building new versions. Typically, the project had major releases once per year, minor releases every 4-5 months, and bug fix/patch releases every 4-6 weeks.
 
+### Why make it opensource
+We want to give back to the community and being a security product in itself it makes even more sense to open it up to the participation and eyes from the community members in order to help make it an even more secure and a better product for the whole benefit of the whole ecosystem.
 
 ## Architecture
 
