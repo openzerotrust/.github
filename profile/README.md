@@ -100,7 +100,9 @@ OZT can be deployed in many kubernetes distributions and through different conta
 
 For more information visit the [deployment section](https://open-docs.neuvector.com/deploying/production#planning-deployments)) in our documentation page.
 
+Here you can see how to install OZT from Rancher:
 
+<img align="center" src="../images/Install_NV_From_Rancher.GIF" alt="Neuvector_install_from_rancher" />
 
 ## Contributing
 
