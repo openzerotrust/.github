@@ -86,7 +86,7 @@ For more information visit the [deployment section](https://open-docs.neuvector.
 
 Here you can see how to install OZT from Rancher:
 
-<img align="center" src="../images/Install_NV_From_Rancher.GIF" alt="Neuvector_install_from_rancher" />
+<img align="center" src="https://github.com/openzerotrust/.github/blob/main/images/Install_NV_From_Rancher.GIF" alt="Neuvector_install_from_rancher" />
 
 ## Contributing
 
