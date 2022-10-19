@@ -57,7 +57,7 @@ There are four main components:
 ## Features
 
 
-**[Roadmap](https://github.com/openzerotrust/docs/blob/main/ROADMAP.md)**
+**[Roadmap](https://github.com/openzerotrust/.github/blob/main/ROADMAP.md)**
 
 
 ## Getting Started
