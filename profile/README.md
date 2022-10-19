@@ -103,7 +103,7 @@ It doesn't have to be just technical.
 
 Visit our [Contributing Guidelines](https://github.com/openzerotrust/.github/blob/main/CONTRIBUTING.md).
 
-Join our slack channel #ozt at [slack.rancher.io](slack.rancher.io)
+Join our slack channel #ozt at [slack.rancher.io](https://slack.rancher.io)
 
 
 
