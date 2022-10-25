@@ -1,12 +1,12 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-green.svg?style=flat)](../CONTRIBUTING.md)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
-<img align="right" src="https://github.com/openzerotrust/.github/blob/main/images/OpenZeroTrustLogo_Green2.png" width="150px" />
+<img align="right" src="https://github.com/openzerotrust/.github/blob/main/images/Openzerotrust-logo.svg" alt="OpenZeroTrust Logowq" width="150px" />
 
 ## Open Zero Trust
 
 # Overview
 
-Open Zero Trust is a Full Lifecycle Container Security platform, delivering cloud-native security with uncompromising end-to-end protection, from DevOps vulnerability protection to automated run-time security, featuring a true Layer 7 container firewall that can block zero days and other threats comming from unexpected application behaviours.
+Open Zero Trust is a Full Lifecycle Container Security platform, delivering cloud-native security with uncompromising end-to-end protection, from DevOps vulnerability protection to automated run-time security, featuring a true Layer 7 ( application ) container firewall that can block zero days and other threats comming from undiscovered vulnerabilities and unexpected application behaviours.
 
 With the Open Zero Trust (OZT) platform, DevOps, DevSecOps, and Security teams have the tools they need to secure the entire container pipeline, from Build to Ship to Run, automatically.
 
@@ -57,14 +57,53 @@ There are four main components:
 ## Features
 
 
+Vulnerability Scanning:
+ - Container Platforms
+ - Kubernetes cluster nodes
+ - Registries
+ - Running containers
+
+Zero-Trust security:
+ - Automated policy generation based on application behaviour using ML
+ - Blocking unexpected behaviours at network level (including layer 7 protocols), filesystem and process
+
+
+Automation:
+ - Make your security part of your application CI/CD pipelines using CRDs.
+ - Integrate with other applications and tools using the API.
+
+Admission control
+ - Allow you to define extra criteria to control what gets admited into your Kubernetes cluster
+
+Network Layer 7 Application protocol
+ - Can detect and verify more than 30 protocols
+
+Unique Deep Packet Inspection technology
+ - Monitor and protect 'East-west' and 'North-south' container traffic.
+ - Identify and stop attacks, data leaks or verify the application access to further reduce the attack surface
+ - Web Application Firewall
+ - Data Loss Prevention
+
+Compliance checks
+ - PCI, GDPR, HIPAA and NIST
+ - Images, Cluster nodes and Containers
+
+Visualize and act upon live network activity
+
+Send notification and alerts of Security events
+
+Generate Risk reports
+
+Advice on how to reduce Risks
+
+
 **[Roadmap](https://github.com/openzerotrust/.github/blob/main/ROADMAP.md)**
 
 
 ## Getting Started
 
 In our [docs](https://open-docs.neuvector.com) you can find many examples and information about OZT.
-
-Documentation for the Open Zero Trust project can be found temporarily [here](https://open-docs.neuvector.com), you can find many examples and information about OZT. This will soon be replicat into this repo.
+Documentation for the Open Zero Trust project can be found temporarily [here](https://open-docs.neuvector.com), you can find many examples and information about OZT. This will soon be replicating into this repo.
 
 You can also visit our [official blog](https://blog.neuvector.com/article) where you can find interesting articles, news and anouncements.
 
@@ -88,6 +127,8 @@ Here you can see how to install OZT from Rancher:
 
 <img align="center" src="https://github.com/openzerotrust/.github/blob/main/images/Install_NV_From_Rancher.GIF" alt="Neuvector_install_from_rancher" />
 
+
+
 ## Contributing
 
 **Contribute and join us!**
@@ -104,7 +145,6 @@ It doesn't have to be just technical.
 Visit our [Contributing Guidelines](https://github.com/openzerotrust/.github/blob/main/CONTRIBUTING.md).
 
 Join our slack channel #ozt at [slack.rancher.io](https://slack.rancher.io)
-
 
 
 ### Security
