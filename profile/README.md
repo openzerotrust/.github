@@ -64,13 +64,14 @@ Vulnerability Scanning:
  - Running containers
 
 Zero-Trust security:
- - Automated policy generation based on application behaviour using ML
+ - Policies based on application behavior, zero-noise.
  - Blocking unexpected behaviours at network level (including layer 7 protocols), filesystem and process
-
+ - Zero-Trust Network Access (ZTNA)
 
 Automation:
  - Make your security part of your application CI/CD pipelines using CRDs.
  - Integrate with other applications and tools using the API.
+ - Automated policy generation based on application behaviour learned using ML
 
 Admission control
  - Allow you to define extra criteria to control what gets admited into your Kubernetes cluster
