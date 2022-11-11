@@ -10,6 +10,8 @@ Open Zero Trust is a Full Lifecycle Container Security platform, delivering clou
 
 With the Open Zero Trust (OZT) platform, DevOps, DevSecOps, and Security teams have the tools they need to secure the entire container pipeline, from Build to Ship to Run, automatically.
 
+<b>Please note that temporarily code and documentation links point to NeuVector repository.</b>
+
 # Table of Contents
 
 - [Migration](#Migration)
